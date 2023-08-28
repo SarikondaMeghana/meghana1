@@ -1,0 +1,11 @@
+{
+  "byte": 1024,
+  "cisco": {
+    "port_Cisco": 2222,
+    "host_Cisco": "127.0.0.1"
+  },
+  "HCL": {
+    "port_HCL": 7777,
+    "host_HCL": "127.0.0.2"
+  }
+}
